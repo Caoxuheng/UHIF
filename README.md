@@ -1,8 +1,7 @@
+![TITLE](https://www.spiedigitallibrary.org/images/journals/VolumeCovers/OE_InProgress_270_350.jpg)
 # Universal high spatial resolution hyperspectral imaging using hybrid-resolution image fusion
 This is a color space transfer-based super-resolution algorithm for HSI-RGB fusion in coping with unknown spectral degradation. By transferring the HR-RGB to CIE XYZ color space, we employ the CIE color matching function (CMF) as the spectral degradation to reconstruct the HR-HSI, which successfully skip the SRF measurement. To efficiently fuse the HR-XYZ and the LR-HSI, we propose a polynomial fusion model that estimates the ratio matrix between the target HR-HSI and the upsampled LR-HSI. The target HR-HSI is reconstructed by combining the ratio matrix and the unsampled LR-HSI. The quantitative results outperform exisiting SOTA (2014-2021) algorithms.  
-***The paper has been submitted to a journal***  
 
-![Introduce]()
 # Flowchart
 ![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/oeuhif.png)  
 # Abstract  
