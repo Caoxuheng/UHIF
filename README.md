@@ -15,7 +15,8 @@ By fusing a low spatial resolution hyperspectral image (LR-HSI) and a high spati
 ![Simulate](https://github.com/Caoxuheng/imgs/blob/main/uhif_simu.png)
 ![Real](https://github.com/Caoxuheng/imgs/blob/main/uhif_real.png)  
 # Guidance
-**None**
+Add your dataset path in `config.py`  
+Run `main.py`  
 # Requirements
 ## Environment
 `Python3.8`  
