@@ -7,8 +7,9 @@ This is a color space transfer-based super-resolution algorithm for HSI-RGB fusi
 ![Flowchart](https://github.com/Caoxuheng/imgs/blob/main/oeuhif.png)  
 # Abstract  
 By fusing a low spatial resolution hyperspectral image (LR-HSI) and a high spatial resolution RGB image (HR-RGB), hybrid-resolution hyperspectral imaging has been a popular framework for acquiring high spatial resolution hyperspectral image (HR-HSI). Existing fusion methods always employ a known spectral response function (SRF) of the RGB camera to reconstruct the HR-HSI. The SRF is often limited or unavailable in practice, restricting the performance of existing methods. To address this problem, we propose a color space transfer-based fusion strategy that obtains HR-HSI based on a hybrid resolution hyperspectral imaging system without measuring SRF. Specifically, by using clustered-based back propagation neural network (BPNN), the HR-RGB is mapped into the CIE XYZ color space, and the HR-XYZ is obtained. In the CIE XYZ color space, its SRF is known, which successfully skip the SRF measurement. To efficiently fuse the HR-XYZ and the LR-HSI, we propose a polynomial fusion model that estimates the ratio matrix between the target HR-HSI and the upsampled LR-HSI. Finally, the target HR-HSI is reconstructed by combining the ratio matrix and the unsampled LR-HSI. Experimental results on two public data sets and our real-world data sets show that the proposed method outperforms five state-of-the-art fusion methods.  
-# Result presentation
-Result will be uploaded.
+# Result presentation  
+![Simulate](https://github.com/Caoxuheng/imgs/blob/main/uhif_simu.png)
+![Real](https://github.com/Caoxuheng/imgs/blob/main/uhif_real.png)  
 # Guidance
 **None**
 # Requirements
