@@ -28,4 +28,16 @@ Run `main.py`
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
 # Note
 For any questions, feel free to email me at caoxuhengcn@gmail.com.  
-If you find our work useful in your research, please cite our paper ^.^
+If you find our work useful in your research, please cite our paper ^.^  
+**preproduction**  
+```python  
+@article{article,
+author = {Cao, Xuheng and Lian, Yusheng and Liu, Zilong and Zhou, Han and Bin, Wang and Huang, Beiqing and Zhang, Wan},
+year = { },
+month = { },
+pages = { },
+title = {Universal high spatial resolution hyperspectral imaging using hybrid-resolution image fusion},
+journal = {Optical Engineering},
+doi = { }
+}
+
