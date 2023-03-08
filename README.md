@@ -20,8 +20,8 @@ By fusing a low spatial resolution hyperspectral image (LR-HSI) and a high spati
 ## Environment
 `Python3.8`  
 `torch 1.12`,`torchvision 0.13.0`  
-`Numpy`,`Scipy`  
-*Also, we will create a Paddle version that implements FeafusFormer in AI Studio online for free!*
+`Numpy`,`Scipy`,`opencv-python`,`scikit-learn`  
+
 ## Datasets
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
