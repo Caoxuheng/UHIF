@@ -1,4 +1,4 @@
-<img align="right" src="https://www.spiedigitallibrary.org/images/journals/VolumeCovers/OE_InProgress_270_350.jpg"/>  
+<img align="right" src="https://www.spiedigitallibrary.org/images/journals/VolumeCovers/OE-62-3-270.jpg"/>  
 
 # [Universal high spatial resolution hyperspectral imaging using hybrid-resolution image fusion](https://doi.org/10.1117/1.OE.62.3.033107)  
 
