@@ -29,7 +29,7 @@ Run `main.py`
 # Note
 For any questions, feel free to email me at caoxuhengcn@gmail.com.  
 If you find our work useful in your research, please cite our paper ^.^  
-**preproduction**  
+# Citation
 ```python  
 @article{article,
 author = {Cao, Xuheng and Lian, Yusheng and Liu, Zilong and Zhou, Han and Bin, Wang and Huang, Beiqing and Zhang, Wan},
